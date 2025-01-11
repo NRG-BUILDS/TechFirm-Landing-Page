@@ -1,21 +1,15 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "CDL ASSOCIATES LTD.",
+    "paragraph": "...helping businesses succeed and grow with confidence into the future!"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "The environment in Nigeria's economy is complex and calls for pragmatism, due diligence and professional sagacity to successfully operate in it.The complexity is encapsulated in the status of infrastructure, the floatation of the Naira, flux in the government policies, regulatory agencies.",
+    "paragraph2": "In addition, the Nigerian economy holds a promise of huge markets, untapped mineral resources, and a huge labour force. So, the decision to invest and operate becomes momentous.At CDL, we provide the necessary skills and “know how” to assist investors to navigate successfully here in Nigeria. CDL is a compendium of well horned and tested professionals, with diverse business experiences, all of which add up to, providing the requisite background and launch pad for investments and businesses development.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Integrity: We are honest, transparent and reliable",
+      "Ambitious: Reaching new heights. ",
+      "Passion: We always deliver the best."
     ]
   },
   "Gallery": [
@@ -67,34 +61,54 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-building",
+      "name": "CORPORATE SERVICES",
+      "text": "Branding and Reputation Management."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-tags",
+      "name": "PRODUCT",
+      "text": "Route to Market. Product Concepts/Availability"
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-truck",
+      "name": "SUPPLY CHAIN MANAGEMENT",
+      "text": "Cost Minimization. Stock Brokerage. Supplies."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-legal",
+      "name": "CONFLICT & CRISIS MANAGEMENT",
+      "text": ""
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-leaf",
+      "name": "CLIMATE CHANGE MANAGEMENT",
+      "text": "Environmental Impact Assessments. Mitigation."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-users",
+      "name": "HUMAN RESOURCES",
+      "text": "Recruitment. Placements. Evaluations. Training and Development"
+    },
+    {
+      "icon": "fa fa-money",
+      "name": "FINANCIAL TRADE",
+      "text": "Digital Trading in Stocks, Crypto and Bitcoin"
+    },
+    {
+      "icon": "fa fa-user-secret",
+      "name": "INTELLIGENCE REPORTS",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-home",
+      "name": "REAL ESTATE",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-heart",
+      "name": "CORPORATE SOCIAL RESPONSIBILITY",
+      "text": "Community Involvement"
     }
   ],
   "Testimonials": [
@@ -131,30 +145,26 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
+      "img": "img/team/avatar.webp",
+      "name": "Chuma Igwe",
       "job": "Director"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
+      "img": "img/team/avatar.webp",
+      "name": "Damian Wilson Nwatarali",
       "job": "Senior Designer"
     },
+
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
+      "img": "img/team/avatar.webp",
+      "name": "Lucky Nwachukwu",
       "job": "Project Manager"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "18, Sir Samuel Manuwa Street, Victoria Island, Lagos ",
+    "phone": "+234 803 213 3097",
+    "email": "cdl001associates@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"

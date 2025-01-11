@@ -1,6 +1,7 @@
 import React from "react";
+import Logo from "./logo";
 
-export const Mission = (props) => {
+export const About = (props) => {
   return (
     <div id="about">
       <div className="container">
@@ -11,8 +12,11 @@ export const Mission = (props) => {
           </div>
           <div className="col-xs-12 col-md-6">
             <div className="about-text">
-              <h2>Our Mission</h2>
+              <h2>
+                About <Logo />
+              </h2>
               <p>{props.data ? props.data.paragraph : "loading..."}</p>
+              <p>{props.data ? props.data.paragraph2 : "loading..."}</p>
               <h3>Some of our core values</h3>
               <div className="list-style">
                 <div className="col-lg-6 col-sm-6 col-xs-12">
@@ -20,15 +24,6 @@ export const Mission = (props) => {
                     {props.data
                       ? props.data.Why.map((d, i) => (
                           <li key={`${d}-${i}`}>{d}</li>
-                        ))
-                      : "loading"}
-                  </ul>
-                </div>
-                <div className="col-lg-6 col-sm-6 col-xs-12">
-                  <ul>
-                    {props.data
-                      ? props.data.Why2.map((d, i) => (
-                          <li key={`${d}-${i}`}> {d}</li>
                         ))
                       : "loading"}
                   </ul>
