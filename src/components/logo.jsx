@@ -1,9 +1,9 @@
 const Logo = () => {
   return (
-    <span>
-      <span style={{ color: "#2a2d34" }}>C</span>
-      <span style={{ color: "#009ddc" }}>D</span>
-      <span style={{ color: "#f26430" }}>L</span>
+    <span style={{ fontFamily: "serif" }}>
+      <span style={{ color: "#04fd04" }}>C</span>
+      <span style={{ color: "#0102b" }}>D</span>
+      <span style={{ color: "#fe0000" }}>L</span>
     </span>
   );
 };
