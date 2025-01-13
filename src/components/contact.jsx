@@ -9,7 +9,7 @@ const initialState = {
 };
 export const Contact = (props) => {
   const [{ name, email, message }, setState] = useState(initialState);
-
+  const [isSuccess, setIsSuccess] = useState(false);
   const handleChange = (e) => {
     const { name, value } = e.target;
     setState((prevState) => ({ ...prevState, [name]: value }));
@@ -26,14 +26,15 @@ export const Contact = (props) => {
 
     emailjs
       .sendForm(
-        "YOUR_SERVICE_ID",
-        "YOUR_TEMPLATE_ID",
+        "service_y7wmnx9",
+        "template_67op2m4",
         e.target,
-        "YOUR_PUBLIC_KEY"
+        "gp2YxKdqYp1H-TBk2"
       )
       .then(
         (result) => {
           console.log(result.text);
+          setIsSuccess(true);
           clearState();
         },
         (error) => {
@@ -98,8 +99,12 @@ export const Contact = (props) => {
                   <p className="help-block text-danger"></p>
                 </div>
                 <div id="success"></div>
-                <button type="submit" className="btn btn-custom btn-lg">
-                  Send Message
+                <button
+                  type="submit"
+                  disabled={isSuccess}
+                  className="btn btn-custom btn-lg"
+                >
+                  {isSuccess ? "SENT!" : "SEND MESSAGE"}
                 </button>
               </form>
             </div>
