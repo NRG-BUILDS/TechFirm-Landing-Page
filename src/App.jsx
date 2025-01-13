@@ -11,6 +11,7 @@ import SmoothScroll from "smooth-scroll";
 import { Features } from "./components/features";
 import { Testimonials } from "./components/testimonials";
 import "./App.css";
+import HowWeWorkSection from "./components/howwework";
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
   speed: 1000,
@@ -33,6 +34,7 @@ const App = () => {
       {/* <Gallery data={landingPageData.Gallery} /> */}
       {/* <Testimonials data={landingPageData.Testimonials} /> */}
       <TeamSection data={landingPageData.Team} />
+      <HowWeWorkSection />
       <Contact data={landingPageData.Contact} />
     </div>
   );
