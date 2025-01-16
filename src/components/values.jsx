@@ -79,7 +79,7 @@ const ValuesDiagram = () => {
   });
 
   return (
-    <div ref={containerRef} style={styles.container}>
+    <div ref={containerRef} style={styles.container} id="values">
       <style>
         {`
           @keyframes fadeIn {
