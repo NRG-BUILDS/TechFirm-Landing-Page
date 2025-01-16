@@ -17,6 +17,7 @@ export const About = (props) => {
               </h2>
               <p>{props.data ? props.data.paragraph : "loading..."}</p>
               <p>{props.data ? props.data.paragraph2 : "loading..."}</p>
+              <p>{props.data ? props.data.paragraph3 : "loading..."}</p>
               <h3>Vision and Mission</h3>
               <p style={{ marginTop: "-6px" }}>
                 <span style={{ fontWeight: 600 }}>Vision: </span>
