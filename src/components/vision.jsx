@@ -124,7 +124,7 @@ const VisionMissionSection = () => {
       </style>
       <div style={styles.container} className="grid-container">
         <div style={styles.imageContainer} className="image-container">
-          <img src="img/about.jpg" alt="Eagle in flight" style={styles.image} />
+          <img src="img/eagle.jpg" alt="Eagle in flight" style={styles.image} />
         </div>
         <div style={styles.contentContainer} className="content-container">
           <div style={styles.visionTitle}>Vision</div>
