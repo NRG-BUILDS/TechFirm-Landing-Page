@@ -28,18 +28,6 @@ export const About = (props) => {
                 To deliver top choice and genuine business solutions.
                 <br />
               </p>
-              <h3>Some of our core values</h3>
-              <div className="list-style">
-                <div className="col-lg-6 col-sm-6 col-xs-12">
-                  <ul>
-                    {props.data
-                      ? props.data.Why.map((d, i) => (
-                          <li key={`${d}-${i}`}>{d}</li>
-                        ))
-                      : "loading"}
-                  </ul>
-                </div>
-              </div>
             </div>
           </div>
         </div>
