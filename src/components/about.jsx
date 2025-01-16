@@ -18,16 +18,7 @@ export const About = (props) => {
               <p>{props.data ? props.data.paragraph : "loading..."}</p>
               <p>{props.data ? props.data.paragraph2 : "loading..."}</p>
               <p>{props.data ? props.data.paragraph3 : "loading..."}</p>
-              <h3>Vision and Mission</h3>
-              <p style={{ marginTop: "-6px" }}>
-                <span style={{ fontWeight: 600 }}>Vision: </span>
-                We are driven by a vision to be the best provider of what we do
-                in the market place.
-                <br />
-                <span style={{ fontWeight: 600 }}>Mission: </span>
-                To deliver top choice and genuine business solutions.
-                <br />
-              </p>
+              
             </div>
           </div>
         </div>
