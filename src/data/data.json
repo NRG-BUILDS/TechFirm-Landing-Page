@@ -146,18 +146,18 @@
   ],
   "Team": [
     {
-      "img": "img/team/avatar.webp",
+      "img": "img/team/chuma.jpg",
       "name": "Chuma Igwe",
       "job": "Director"
     },
     {
-      "img": "img/team/avatar.webp",
+      "img": "img/team/damian.jpg",
       "name": "Damian Wilson Nwatarali",
       "job": "Senior Designer"
     },
 
     {
-      "img": "img/team/avatar.webp",
+      "img": "img/team/lucky.jpg",
       "name": "Lucky Nwachukwu",
       "job": "Project Manager"
     }
