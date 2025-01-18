@@ -62,52 +62,47 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-building",
+      "image": "img/service/corporate.jpg",
       "name": "CORPORATE SERVICES",
       "text": "Branding and Reputation Management."
     },
     {
-      "icon": "fa fa-tags",
+      "image": "img/service/product.jpg",
       "name": "PRODUCT",
       "text": "Route to Market. Product Concepts/Availability"
     },
     {
-      "icon": "fa fa-truck",
+      "image": "img/service/supply.jpg",
       "name": "SUPPLY CHAIN MANAGEMENT",
       "text": "Cost Minimization. Stock Brokerage. Supplies."
     },
     {
-      "icon": "fa fa-legal",
+      "image": "img/service/conflict.jpg",
       "name": "CONFLICT & CRISIS MANAGEMENT",
       "text": ""
     },
     {
-      "icon": "fa fa-leaf",
+      "image": "img/service/climate.jpg",
       "name": "CLIMATE CHANGE MANAGEMENT",
       "text": "Environmental Impact Assessments. Mitigation."
     },
     {
-      "icon": "fa fa-users",
+      "image": "img/service/human.jpg",
       "name": "HUMAN RESOURCES",
       "text": "Recruitment. Placements. Evaluations. Training and Development"
     },
     {
-      "icon": "fa fa-money",
+      "image": "img/service/financial.jpg",
       "name": "FINANCIAL TRADE",
       "text": "Digital Trading in Stocks, Crypto and Bitcoin"
     },
     {
-      "icon": "fa fa-user-secret",
+      "image": "img/service/intelligence.jpg",
       "name": "INTELLIGENCE REPORTS",
       "text": ""
     },
     {
-      "icon": "fa fa-home",
-      "name": "REAL ESTATE",
-      "text": ""
-    },
-    {
-      "icon": "fa fa-heart",
+      "image": "img/service/responsibility.jpg",
       "name": "CORPORATE SOCIAL RESPONSIBILITY",
       "text": "Community Involvement"
     }
@@ -172,22 +167,22 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
+      "image": "img/service/ffa-comments-o",
       "title": "Lorem ipsum",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
-      "icon": "fa fa-bullhorn",
+      "image": "img/service/ffa-bullhorn",
       "title": "Lorem ipsum",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
-      "icon": "fa fa-group",
+      "image": "img/service/ffa-group",
       "title": "Lorem ipsum",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
-      "icon": "fa fa-magic",
+      "image": "img/service/ffa-magic",
       "title": "Lorem ipsum",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     }

@@ -8,14 +8,14 @@ const HowWeWorkSection = () => {
         <div className={styles.textContent}>
           <h1>How We Work</h1>
           <p className={styles.paragraph}>
-            Collaboration. This summarizes the synergy amongst our Associates,
-            which leads to unlocking spirited business solutions. In addition,
-            we immerse our clients in our thoughts and work processes, with a
-            view to aligning with the best and brightest. Our work atmosphere is
-            unrestricted and unbundled, yielding an unfettered access to
-            limitless knowledge and solutions. We have also benefitted from our
-            priced external resource persons and groups, who are ever ready to
-            work it out with our team.
+            <b>Collaboration.</b>
+            This summarizes the synergy amongst our Associates, which leads to
+            unlocking spirited business solutions. In addition, we immerse our
+            clients in our thoughts and work processes, with a view to aligning
+            with the best and brightest. Our work atmosphere is unrestricted and
+            unbundled, yielding an unfettered access to limitless knowledge and
+            solutions. We have also benefitted from our priced external resource
+            persons and groups, who are ever ready to work it out with our team.
           </p>
         </div>
         <div className={styles.imageContainer}>
