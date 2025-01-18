@@ -140,7 +140,7 @@ export const Contact = (props) => {
       </div>
       <div id="footer">
         <div className="container text-center">
-          <p>&copy; 2025 CDL ASSOCIATES LTD.</p>
+          <p>&copy; 2025 CDL ASSOCIATES.</p>
         </div>
       </div>
     </div>
