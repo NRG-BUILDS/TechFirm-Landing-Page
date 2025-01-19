@@ -8,7 +8,7 @@ export const Header = (props) => {
           <div className="container">
             <div className="row">
               <div className="col-md-8 col-md-offset-2 intro-text">
-                <h1>WE ARE CDL ASSOCIATES</h1>
+                <h1>CDL ASSOCIATES</h1>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a href="#about" className="btn btn-custom btn-lg page-scroll">
                   Learn More
