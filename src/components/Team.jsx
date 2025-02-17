@@ -39,7 +39,7 @@ const TeamSection = () => {
     },
     {
       name: "Uzochukwu Unegba",
-      image: "img/team/lucky.jpg",
+      image: "img/team/uzochukwu.jpg",
       description:
         "Uzochukwu is a Product Manager with a strong foundation in technology and project execution. A graduate of Igbinedion University, Okada, with a BSc in Computer Science & Information Technology, he has built a distinguished career by driving digital transformation in senior IT and product development roles. At Agricorp International Development Limited, he has spearheaded transformative initiatives such as blockchain-powered supply chain solutions and ERP system implementations. He continues to innovate from concept to market launch, blending technical expertise with strategic project leadership to deliver operational excellence.",
     },
