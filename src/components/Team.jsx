@@ -37,6 +37,12 @@ const TeamSection = () => {
       description:
         "He is a graduate of Business Management from the University of Nigeria. He had a brief stint with Central Bank of Nigeria before joining the Management cadre of Nigerian Breweries plc. He has specialist background in Logistics, Communication and General Management.",
     },
+    {
+      name: "Uzochukwu Unegba",
+      image: "img/team/lucky.jpg",
+      description:
+        "Uzochukwu is a Product Manager with a strong foundation in technology and project execution. A graduate of Igbinedion University, Okada, with a BSc in Computer Science & Information Technology, he has built a distinguished career by driving digital transformation in senior IT and product development roles. At Agricorp International Development Limited, he has spearheaded transformative initiatives such as blockchain-powered supply chain solutions and ERP system implementations. He continues to innovate from concept to market launch, blending technical expertise with strategic project leadership to deliver operational excellence.",
+    },
   ];
 
   return (
